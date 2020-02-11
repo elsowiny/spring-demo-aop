@@ -1,9 +1,10 @@
-package com.elsowiny.aopdemo.dao;
-
+package com.elsowiny.aopdemo;
+//
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
-import com.elsowiny.aopdemo.Account;
-import com.elsowiny.aopdemo.DemoConfig;
+import com.elsowiny.aopdemo.dao.AccountDAO;
+import com.elsowiny.aopdemo.dao.MembershipDAO;
+import com.elsowiny.aopdemo.dao.SheriefDAO;
 
 public class MainDemoApp {
 
